@@ -20,6 +20,7 @@ header {
 }
 header #links {
 width: 45%;
+z-index: 3;
 display: flex;
 align-items: center;
 justify-content: space-between;
@@ -38,6 +39,7 @@ header #links li a{
   }
   header #social_icon {
     width: 10%;
+    z-index: 3;
     display: flex;
     align-items: center;
     justify-content: space-between;
