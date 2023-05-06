@@ -18,6 +18,9 @@ header {
   min-height: 15vh;
   background-color: #fff;
 }
+.logo{
+  margin-top:2px;
+}
 header #links {
 width: 45%;
 z-index: 3;
